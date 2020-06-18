@@ -1,10 +1,10 @@
 //bai1:In JavaScript, in what cases, you will get the SyntaxError telling you that some
 //of your variables have invalid names? Can you give 3 different examples of
 //invalid variable names?
-var &linhducdau
-var 83linh
-var 312314131
-//bai 2:In JavaScript, how to check a variable data types?
+// var &linhducdau
+// var 83linh
+// var 312314131
+//b:In JavaScript, how to check a variable data types?
 
 //Dùng lệnh typeof để xem kiểu dữ liệu của biến
 
