@@ -11,9 +11,9 @@
 //bai3
 let x = 'Coding is Great';
 console.log(x);
-let y =0;
+let y = 0;
 console.log(y);
-let s= x.toLowerCase();
+let s = x.toLowerCase();
 console.log(s);
 
 
